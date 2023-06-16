@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.AssemblyInfo.cs
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/bin/Debug/net6.0/hometask1
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/bin/Debug/net6.0/hometask1.deps.json
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/bin/Debug/net6.0/hometask1.runtimeconfig.json
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/bin/Debug/net6.0/hometask1.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/bin/Debug/net6.0/hometask1.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/refint/hometask1.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/hometask1.genruntimeconfig.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/hometask1/obj/Debug/net6.0/ref/hometask1.dll
