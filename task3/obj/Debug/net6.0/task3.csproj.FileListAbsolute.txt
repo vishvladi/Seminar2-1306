@@ -1,0 +1,15 @@
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/bin/Debug/net6.0/task3
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/bin/Debug/net6.0/task3.deps.json
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/bin/Debug/net6.0/task3.runtimeconfig.json
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/bin/Debug/net6.0/task3.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/bin/Debug/net6.0/task3.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.csproj.AssemblyReference.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.AssemblyInfoInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.AssemblyInfo.cs
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.csproj.CoreCompileInputs.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/refint/task3.dll
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.pdb
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/task3.genruntimeconfig.cache
+/Users/macbookpro/Documents/Csharp2023/Seminar2-130623/task3/obj/Debug/net6.0/ref/task3.dll
